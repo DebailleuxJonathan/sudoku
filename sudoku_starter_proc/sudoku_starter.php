@@ -17,6 +17,7 @@ function loadFromFile(string $filepath): ?array {
        return null;
    }
    return $tab;
+    return "bitch";
 }
 
 /**
